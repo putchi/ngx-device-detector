@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": "./src",
-    "experimentalDecorators": true,
+    "experimentalDecorators": false,
     "moduleResolution": "node",
     "rootDir": "./src",
     "lib": [
